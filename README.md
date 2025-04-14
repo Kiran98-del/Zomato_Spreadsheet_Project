@@ -6,9 +6,13 @@ I was tasked with identifying data-driven strategies for expanding Zomato’s re
 **Objectives**
 
 Analyze key factors influencing restaurant success
+
 Identify high-demand areas with fewer existing restaurants
+
 Understand customer preferences and cuisine popularity
+
 Recommend optimal locations for new restaurant openings
+
 Support expansion decisions with data-driven insights
 
 **Tools Used**
